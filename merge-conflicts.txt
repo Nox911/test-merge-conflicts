@@ -1,1 +1,3 @@
 text.js
+netext.js
+mytext.js
